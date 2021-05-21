@@ -1,5 +1,10 @@
 bat.log
 ant.jpeg
 zeb.html
+<<<<<<< HEAD
 cat.html
 don.html
+=======
+# cat.html- can't hide due to diff branch
+# don.html- can't hide due to diff branch
+>>>>>>> subDIR-1
